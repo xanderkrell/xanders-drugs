@@ -1,0 +1,16 @@
+{
+  "items": {
+    "example_custom_item": {
+      "displayName": "Example Custom Item",
+      "itemMaterial": "POTION",
+      "potionColor": 16777215,
+      "isEnchanted": false
+    },
+    "other_example_custom_item": {
+      "displayName": "Other Example Custom Item",
+      "itemMaterial": "WHITE_DYE",
+      "potionColor": 0,
+      "isEnchanted": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "example_custom_ingredient": {
+      "result": "example_custom_result",
+      "ingredient": "example_custom_ingredient",
+      "byproduct": "example_custom_byproduct"
+    },
+    "example_custom_result": {
+      "result": "example_custom_result_from_result",
+      "ingredient": "example_custom_result",
+      "byproduct": ""
+    },
+  }
+}

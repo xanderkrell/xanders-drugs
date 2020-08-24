@@ -1,0 +1,16 @@
+{
+  "effects": {
+    "example_drug": {
+      "effects": {
+        "EXAMPLE_EFFECT": {
+          "duration": 8,
+          "amplifier": 2
+        },
+        "OTHER_EXAMPLE_EFFECT": {
+          "duration": 12,
+          "amplifier": 3
+        }
+      }
+    }
+  }
+}
